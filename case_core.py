@@ -1,4 +1,4 @@
-"""Canonical calculations for the KEP synthetic hackathon case.
+"""
 Do not silently change source inputs. Teams may build any decision model on top.
 """
 from __future__ import annotations
